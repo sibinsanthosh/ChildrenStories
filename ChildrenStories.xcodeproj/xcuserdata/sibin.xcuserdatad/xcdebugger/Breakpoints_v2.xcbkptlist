@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FB18E1E5-2FBC-4895-AAF1-61363B1665D1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37F0166C-A52E-45D4-813B-A1B863FC03CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChildrenStories/StoriesDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "playButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "37F0166C-A52E-45D4-813B-A1B863FC03CE - ca67f80135a19071"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChildrenStories.StoriesDetailViewController.playButtonTapped(Any) -&gt; ()"
+                  moduleName = "ChildrenStories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sibin/Desktop/PersonalWork/ChildrenStories/ChildrenStories/StoriesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "37F0166C-A52E-45D4-813B-A1B863FC03CE - ca67f80135a19071"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChildrenStories.StoriesDetailViewController.playButtonTapped(Any) -&gt; ()"
+                  moduleName = "ChildrenStories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sibin/Desktop/PersonalWork/ChildrenStories/ChildrenStories/StoriesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "37F0166C-A52E-45D4-813B-A1B863FC03CE - ca67f80135a19071"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChildrenStories.StoriesDetailViewController.playButtonTapped(Any) -&gt; ()"
+                  moduleName = "ChildrenStories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sibin/Desktop/PersonalWork/ChildrenStories/ChildrenStories/StoriesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25F65CC0-3FB0-4043-AB2C-1A0A088CABF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChildrenStories/StoriesDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "preparePlayer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "25F65CC0-3FB0-4043-AB2C-1A0A088CABF9 - 394bb459c939aa05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChildrenStories.StoriesDetailViewController.playSound() -&gt; ()"
+                  moduleName = "ChildrenStories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sibin/Desktop/PersonalWork/ChildrenStories/ChildrenStories/StoriesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "968">
+               </Location>
+               <Location
+                  uuid = "25F65CC0-3FB0-4043-AB2C-1A0A088CABF9 - 394bb459c939aa05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChildrenStories.StoriesDetailViewController.playSound() -&gt; ()"
+                  moduleName = "ChildrenStories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sibin/Desktop/PersonalWork/ChildrenStories/ChildrenStories/StoriesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "906">
+               </Location>
+               <Location
+                  uuid = "25F65CC0-3FB0-4043-AB2C-1A0A088CABF9 - fbd110c425577384"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChildrenStories.StoriesDetailViewController.preparePlayer() -&gt; ()"
+                  moduleName = "ChildrenStories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sibin/Desktop/PersonalWork/ChildrenStories/ChildrenStories/StoriesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "906">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D000BF53-3BFF-4601-B9A5-F2611DE38F69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChildrenStories/StoriesDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "preparePlayer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFFA8969-C09E-47D4-A28D-2D83279DD830"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChildrenStories/StoriesDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "preparePlayer()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFFA8969-C09E-47D4-A28D-2D83279DD830 - 394bb459c939ad0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChildrenStories.StoriesDetailViewController.playSound() -&gt; ()"
+                  moduleName = "ChildrenStories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sibin/Desktop/PersonalWork/ChildrenStories/ChildrenStories/StoriesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1156">
+               </Location>
+               <Location
+                  uuid = "BFFA8969-C09E-47D4-A28D-2D83279DD830 - 394bb459c939ad0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChildrenStories.StoriesDetailViewController.playSound() -&gt; ()"
+                  moduleName = "ChildrenStories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sibin/Desktop/PersonalWork/ChildrenStories/ChildrenStories/StoriesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "1094">
+               </Location>
+               <Location
+                  uuid = "BFFA8969-C09E-47D4-A28D-2D83279DD830 - fbd110c4255772bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChildrenStories.StoriesDetailViewController.preparePlayer() -&gt; ()"
+                  moduleName = "ChildrenStories"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sibin/Desktop/PersonalWork/ChildrenStories/ChildrenStories/StoriesDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1094">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
